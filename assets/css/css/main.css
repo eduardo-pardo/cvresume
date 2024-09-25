@@ -1453,11 +1453,11 @@ section, .section {
 .services-2 .navigation-prev, .services-2 .navigation-next {
   position: absolute;
   top: 50%;
-  transform: translateY(-50%);
+  transform: translateY(-150%);
   z-index: 9;
   width: 46px;
   height: 46px;
-  background: var(--contrast-color);
+  background: var(--bs-secondary-bg);
   background-color: none;
   border: none;
   transition: 0.3s all ease;
