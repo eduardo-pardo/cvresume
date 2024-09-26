@@ -1459,7 +1459,7 @@ section, .section {
   height: 46px;
   font-size: 24px;
   border-radius: 50%;
-  background: var(--bs-secondary-bg);
+  background: rgba(233,236,239,0.7);
   background-color: none;
   border: none;
   transition: 0.3s all ease;
